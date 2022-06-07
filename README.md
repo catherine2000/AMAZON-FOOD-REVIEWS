@@ -1,6 +1,6 @@
 # AMAZON-FOOD-REVIEWS
 
-This repository contains the code for analysing food reviews from Amazon.
+This repository contains the code for analysing food reviews from Amazon. This was an academic group project.
 
 A data set of text reviews and corresponding ratings provided by users is used in this project (https://snap.stanford.edu/data/web-FineFoods.html). The rating scores range from 1 (lowest rating) to 5 (highest rating).
 
